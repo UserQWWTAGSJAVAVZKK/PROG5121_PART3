@@ -1,0 +1,20 @@
+[
+  {
+    "messageID": "5634971331",
+    "messageNumber": 5,
+    "sender": "Developer",
+    "recipient": "+27838884567",
+    "messageText": "Ok, I am leaving without you.",
+    "messageHash": "56:5:OK,:YOU.",
+    "status": "Stored"
+  },
+  {
+    "messageID": "4180764563",
+    "messageNumber": 2,
+    "sender": "+27821234567",
+    "recipient": "+27821234565",
+    "messageText": "my friend dan",
+    "messageHash": "41:2:MY:DAN",
+    "status": "Stored"
+  }
+]
